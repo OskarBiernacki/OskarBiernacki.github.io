@@ -1,13 +1,17 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+@import "jekyll-theme-cayman";
 
-
-.page-header{
+.page-header {
     background-image: linear-gradient(120deg, #00B3AD, #FF6B1A);
 }
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+.main-content h1, 
+.main-content h2, 
+.main-content h3, 
+.main-content h4, 
+.main-content h5, 
+.main-content h6 {
     color: #006663;
-  }
+}
