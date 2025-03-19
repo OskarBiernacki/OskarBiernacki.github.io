@@ -12,3 +12,8 @@ Cybersecurity student at the PJATK in Warsaw, aiming to build a career in IT sec
   <a href="https://www.linkedin.com/in/oskar-biernacki-52a08a317/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
+# Skills
+
+|Badges| Skill        |  Project          |
+|:-----|:-------------|:------------------|
+|![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)| Programing in C++ | <a href="https://github.com/OskarBiernacki/GraHexxagon"> Hexagon Game, based on SFML lib, self writen particles, all wrinten in C++ </a> |
