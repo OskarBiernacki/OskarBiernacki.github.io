@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Oskar Biernacki – Cybersecurity Student & CTF Creator
+title: Oskar Biernacki – Cybersecurity Blog
 ---
 
 # Profile
 
-**Cybersecurity Student | Red Teaming | CTF Author | Security Tool Developer**
+### Cybersecurity Student | Red Teaming | CTF Author | Security Tool Developer
 
 I’m a 7th-semester Computer Science student (Cybersecurity specialization) at **PJATK Warsaw** with a strong passion for ethical hacking, web application security, and creating Capture The Flag (CTF) challenges.  
 I combine a hands-on approach with continuous learning to stay at the cutting edge of offensive security.
@@ -18,7 +18,7 @@ I combine a hands-on approach with continuous learning to stay at the cutting ed
 
 ---
 
-## 🎯 Profile
+## Profile
 
 - **Hands-on CTF player and creator** – Top 10% on **TryHackMe** and global rank #940 on **HackTheBox**.  
 - **Active contributor** to the PJATK Security Research Club – delivering talks, leading workshops.  
@@ -27,7 +27,7 @@ I combine a hands-on approach with continuous learning to stay at the cutting ed
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 | Area                              | Skills & Tools                                                                                      |
 |----------------------------------|----------------------------------------------------------------------------------------------------|
@@ -41,14 +41,14 @@ I combine a hands-on approach with continuous learning to stay at the cutting ed
 
 ---
 
-## 🧑‍🎓 Education & Certifications
+## Education & Certifications
 
 - **PJATK Warsaw** – Computer Science (Cybersecurity), 7th Semester  
 - **HackerU Polska** – Cyber Security (Red Team), 2022–Present `Certificate ID RM241020CDV/3 (Aug 2021)`
 
 ---
 
-## 🚀 Experience Highlights
+## Experience Highlights
 
 - **PJHACK 2025** – Co-organized a CTF competition for 40+ participants, built 3 original challenges and Docker-based infrastructure.
 - **KPMG App Security Training** – Participated in hands-on workshops focusing on OWASP Top 10 vulnerabilities.
@@ -56,7 +56,7 @@ I combine a hands-on approach with continuous learning to stay at the cutting ed
 
 ---
 
-## 🏆 CTF Challenges I Created
+## CTF Challenges I Created
 
 | Title | Tags | Description |
 |:------|:-----|:------------|
@@ -66,7 +66,7 @@ I combine a hands-on approach with continuous learning to stay at the cutting ed
 
 ---
 
-## 💻 Projects & Tools
+## Projects & Tools
 
 | Project | Tech | Description |
 |---------|------|-------------|
@@ -77,14 +77,14 @@ I combine a hands-on approach with continuous learning to stay at the cutting ed
 
 ---
 
-## 📝 Talks & Workshops
+## Talks & Workshops
 
 - “JWT Security Deep Dive” – Presented to ~60 participants at PJATK Security Research Club.  
 - Regularly contributing to **discussion panels, code reviews, and knowledge sharing** within the club.
 
 ---
 
-## 🌱 Current Focus
+## Current Focus
 
 - Developing a **web application penetration testing proxy tool** for my engineering thesis.  
 - Experimenting with **new exploitation techniques** and **advanced reverse engineering**.  
@@ -92,7 +92,7 @@ I combine a hands-on approach with continuous learning to stay at the cutting ed
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - **Email:** oskar.biernacki.it@gmail.com  
 - **Phone:** +48 609 244 555  
