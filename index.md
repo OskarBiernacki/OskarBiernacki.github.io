@@ -68,8 +68,8 @@ I combine a hands-on approach with continuous learning to stay at the cutting ed
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [Gatekeeper Write-Up](https://github.com/OskarBiernacki) | Buffer Overflow, Exploitation | My personal guide to exploiting a CTF challenge. |
-| [revgen](https://github.com/OskarBiernacki) | Python CLI | A command-line tool to quickly generate reverse shells. |
+| [Gatekeeper Write-Up](https://github.com/OskarBiernacki/gatekeeper-walkthrough-tryhackme) | Buffer Overflow, Exploitation | My personal guide to exploiting a CTF challenge. |
+| [revgen](https://github.com/OskarBiernacki/revgen) | Python CLI | A command-line tool to quickly generate reverse shells. |
 | [NullDivision](https://github.com/OskarBiernacki/NullDivision_CTF) | Flask, Kotlin | Self-made reverse-engineering CTF challenge. |
 | [Hexagon Game](https://github.com/OskarBiernacki/GraHexxagon) | C++/SFML | A full-featured board game with custom particle effects. |
 
