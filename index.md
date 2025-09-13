@@ -3,8 +3,6 @@ layout: default
 title: Oskar Biernacki – Cybersecurity Blog
 ---
 
-# Profile
-
 ### Cybersecurity Student | Red Teaming | CTF Author | Security Tool Developer
 
 I’m a 7th-semester Computer Science student (Cybersecurity specialization) at **PJATK Warsaw** with a strong passion for ethical hacking, web application security, and creating Capture The Flag (CTF) challenges.  
