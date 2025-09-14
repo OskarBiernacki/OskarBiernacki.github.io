@@ -2,6 +2,4 @@
 
 source "https://rubygems.org"
 
-gemspec
-
-gem "jekyll", "~> 4.4"
+gem "github-pages", "~> 229", group: :jekyll_plugins

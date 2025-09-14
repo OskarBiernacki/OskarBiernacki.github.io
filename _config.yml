@@ -1,5 +1,6 @@
 title: Oskar Biernacki
 description: Welcome to my website where I share my journey in cybersecurity, record my learnings, and explore various topics.
 show_downloads: false
-google_analytics:
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
