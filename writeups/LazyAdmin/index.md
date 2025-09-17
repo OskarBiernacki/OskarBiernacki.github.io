@@ -113,7 +113,7 @@ we have:
 
 | user     | password (hash)                  | cracked      |
 |----------|----------------------------------|--------------|
-| `manager`| `42f749ade7f9e195bf475f37a44cafcb` | `Password123` |
+| `manager`| `42f749ade7f9e195bf475f37a44cafcb` | `**********` |
 
 
 
