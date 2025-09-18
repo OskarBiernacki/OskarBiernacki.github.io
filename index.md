@@ -13,6 +13,10 @@ I combine a hands-on approach with continuous learning to stay at the cutting ed
   <a href="https://www.linkedin.com/in/oskarbiernacki"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:oskar.biernacki.it@gmail.com"><img src="https://img.shields.io/badge/email-oskar.biernacki.it%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
+---
+<div>
+  <a href="https://tryhackme.com/p/morph.secure"><img src="https://tryhackme-badges.s3.amazonaws.com/morph.secure.png" alt="TryHackMe" /></a>
+</div> 
 
 ---
 
