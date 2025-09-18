@@ -22,7 +22,7 @@ I combine a hands-on approach with continuous learning to stay at the cutting ed
 
 ## Profile
 
-- **Hands-on CTF player and creator** – Top 10% on **TryHackMe** and global rank #940 on **HackTheBox**.  
+- **Hands-on CTF player and creator** – Top 7% on **TryHackMe** and global rank #940 on **HackTheBox**.  
 - **Active contributor** to the PJATK Security Research Club – delivering talks, leading workshops.  
 - **Developer of custom security tools and challenges** – from reverse shells to full Docker-based CTFs.  
 - Seeking opportunities in **Security Testing**, **Red Teaming**, or **SOC/Blue Team operations**.
