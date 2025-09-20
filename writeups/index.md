@@ -15,6 +15,5 @@ Here you can find my detailed writeups for CTFs and selected cybersecurity chall
 |------------|------------|-----------------------------------------------------------------------------------|----------------------------------------|
 | Gatekeeper | TryHackMe  | Step-by-step guide showing how to solve the buffer overflow challenge and capture the flag. | [view](/writeups/gatekeeper) |
 | LazyAdmin  | TryHackMe  | Walkthrough of the LazyAdmin machine: enumeration, exploitation, and privilege escalation. | [view](/writeups/LazyAdmin) |
-
----
+| onigirico  | TryHackMe  | Full walkthrough: enumeration, cookie-based login bypass, and LFI exploitation to capture the flag. | [view](/writeups/onigirico) |
 
